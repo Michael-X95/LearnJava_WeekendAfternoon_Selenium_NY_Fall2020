@@ -5,6 +5,7 @@ public class LearnObject {
 	//How to create a object
 	//className objectName = new constructorOfClass();
 	
+	
 	int num1=34;
 	int num2=45;
 	public static void main(String[] args) {
@@ -31,6 +32,7 @@ public class LearnObject {
 		Ls.tvDisplay();
 		LearnStatic.tvDisplay();//it's a static method so no need object but need class name
 		
+	
 		
 	}
 
